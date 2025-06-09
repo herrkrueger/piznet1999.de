@@ -4,7 +4,7 @@ This is an archive of the PIZNet (Patentinformationszentrum Deutschland) website
 
 ## About PIZNet
 
-PIZNet was a network of patent information centers in Germany that provided access to patent information and services. This website contains information about:
+PIZNet is the network of patent information centers in Germany that providing access to patent information and services. This website contains information about:
 
 - Patent information centers across Germany
 - Patent classification systems (IPC)
@@ -19,7 +19,7 @@ This website represents an early example of how patent information was shared on
 
 - The site uses HTML frames for navigation
 - Original GIF and JPG images are preserved
-- Character encoding is ISO-8859-1 (Western European)
+- Character encoding is ISO-8859-1 (Western European), but was transformed to UTF-8
 
 ## License
 
